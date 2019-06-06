@@ -17,7 +17,7 @@ if(x%2!=0)
 count=count+1;
 if(count=b)
 {
-System.out.println(x)
+System.out.println(x);
 }
 }
 }
