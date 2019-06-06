@@ -15,7 +15,7 @@ x=sc.nextInt();
 if(x%2!=0)
 {
 count=count+1;
-if(count=b)
+if(count==b)
 {
 System.out.println(x);
 }
