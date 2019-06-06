@@ -8,7 +8,7 @@ int a,b,x,i,count=0;
 Scanner sc=new Scanner(System.in);
 a=sc.nextInt();
 b=sc.nextInt();
-for(i=0;i<=b;i++)
+for(i=0;i<a;i++)
 {
 x=sc.nextInt();
 if(x%2!=0)
