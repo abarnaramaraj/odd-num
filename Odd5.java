@@ -1,14 +1,14 @@
 import java.util.*;
 import java.lang.*;
-public class Oddnum
+public class Odd5
 {
 public static void main(String[] args)
 {
-int p,s,x,i,count=0;
+int t,s,x,i,count=0;
 Scanner sc=new Scanner(System.in);
-p=sc.nextInt();
+t=sc.nextInt();
 s=sc.nextInt();
-for(i=0;i<p;i++)
+for(i=0;i<t;i++)
 {
 x=sc.nextInt();
 if(x%2!=0)
