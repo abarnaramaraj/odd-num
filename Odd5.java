@@ -11,8 +11,7 @@ s=sc.nextInt();
 for(i=0;i<t;i++)
 {
 x=sc.nextInt();
-if(x%2!=0)
-{
+
 count=count+1;
 if(count==s)
 {
@@ -21,4 +20,4 @@ System.out.println(x);
 }
 }
 }
-}
+
